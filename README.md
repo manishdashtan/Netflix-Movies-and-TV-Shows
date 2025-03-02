@@ -1,5 +1,6 @@
 # Netflix-Movies-and-TV-Shows
 Netflix Dataset Analysis and Recommendation System
+
 This project aims to analyze the Netflix Dataset of movies and TV shows until 2019, obtained from the third-party search engine Flixable. The primary objective is to group the content into relevant clusters using NLP techniques to enhance the user experience through a recommendation system. This system will help mitigate subscriber churn for Netflix, which currently boasts over 220 million subscribers.
 
 Moreover, this project seeks to uncover valuable insights and trends in the streaming entertainment industry by analyzing the dataset.
